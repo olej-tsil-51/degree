@@ -1,4 +1,4 @@
-package углы
+package degrees
 
 import "math"
 
