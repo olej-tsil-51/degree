@@ -17,3 +17,4 @@ func Sin(dg float64) float64 {
 func Tan(dg float64) float64 {
 	return math.Tan(d2r(dg))
 }
+
